@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Mine Hobbier</title>
+  </head>
+  <body>
+    <h2>Hobbier</h2>
+    <ul>
+      <li>Træning</li>
+      <li>aktier
+        <ul>
+          <li>udbytte</li>
+          <li>langtidsinvestering</li>
+        </ul>
+        <li>Mindset og personlig udvikling</li>
+    </ul>
+    <hr>
+  </body>
+</html>

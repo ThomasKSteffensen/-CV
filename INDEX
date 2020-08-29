@@ -1,0 +1,71 @@
+<head>
+    <meta charset="utf-8">
+    <title>Thomas' personlige side💭</title>
+    <link rel="stylesheet" href="css/styles.css">
+  </head>
+
+  <body>
+    <table cellspacing="20">
+      <tbody><tr>
+        <td><img src="Mit profil billede.jpg" width="160" height="200" alt="Downloaded profilbillede">
+        <td><h1>Thomas K. Steffensen</h1>
+        <p><em>Studerende på <strong><a href="https://btech.au.dk/">AU Herning</a></strong>, Diplomingeniør Forretningsudvikling (BDE)</em></p>
+        <p>Insight profil: Kreativ Observerende Koordinator</p></td>
+      </tr>
+    </tbody></table>
+    <hr>
+    <h3>Bøger/Kurser anbefales</h3>
+    <ul>
+      <li><a href="https://en.wikipedia.org/wiki/12_Rules_for_Life"> 12 regler for livet af Jordan B. Peterson </a> </li>
+      <li><a href="https://www.learningcrux.com/course/the-complete-2020-web-development-bootcamp"> The Complete Web Development Bootcamp </a></li>
+    </ul>
+    <hr>
+    <h3>Erhvervserfaring </h3>
+    <table cellspacing="10">
+      <thead>
+        <tr>
+          <th>Tidshorisont</th>
+          <th>Arbejdsplads</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>2016-2020</td>
+          <td>Bartender Holckenhavn slot</td>
+        </tr>
+        <tr>
+          <td>2018-2019</td>
+          <td>Receptionist og rengøringsmedarbejder Fitness World</td>
+        </tr>
+        <tr>
+          <td>2014-2015</td>
+          <td>Ungarbejder Jem & Fix</td>
+        </tr>
+      </tbody>
+    </table>
+    <hr>
+    <h3>Skills</h3>
+    <table cellspacing="10">
+      <tbody><tr>
+        <td>Scrum erfaring</td>
+        <td>⭐️⭐️⭐️</td>
+      </tr>
+      <tr>
+        <td>Web udvikler</td>
+        <td>⭐️⭐️</td>
+      </tr>
+       <tr>
+        <td>Programering</td>
+        <td>⭐️⭐️</td>
+      </tr>
+      <tr>
+        <td>Træningserfaring</td>
+        <td>⭐️⭐️⭐️⭐️</td>
+      </tr>
+    </tbody></table>
+    <hr>
+    <a href="reference hobbyer">Hobbier</a>
+    <a href="Kontakt mig!">Kontakt mig</a>
+
+
+</body>
